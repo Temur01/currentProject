@@ -1,0 +1,19 @@
+input{
+    border-radius: 12px !important;
+    border:0.8px solid;
+}
+button{
+    background-color: black !important;
+    border-radius: 6px !important;
+    min-width: 150px;
+    color: white !important;
+}
+.btnFirst{
+    text-align: end;
+}
+.editors{
+    margin-top: 140px !important;
+}
+.places{
+    margin-top: 60px !important;
+}

@@ -1,0 +1,18 @@
+img{
+    width:100% !important;
+    height: 210px !important;
+}
+
+
+.editors{
+    width: 100%;
+    padding: 12px;
+    background-color: rgba(0, 0, 0, 0.3);
+    bottom: 100%;
+    right: 0;
+    opacity: 0;
+    transition: 0.4s;
+}
+.card:hover .editors{
+    opacity: 1;
+}
